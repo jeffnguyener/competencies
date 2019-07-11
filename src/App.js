@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import Nav from './Components/Nav'
+import Nav from './Components/Nav/Nav'
 import { HashRouter } from 'react-router-dom'
 import router from './router'
 
