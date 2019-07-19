@@ -7,4 +7,5 @@ nav .navbar {
 	justify-content: flex-start;
 	align-items: stretch;
     align-content: stretch;
+    float: right;
 }
